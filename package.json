@@ -1,0 +1,14 @@
+{
+  "name": "@binhbdn/tiny",
+  "version": "1.0.0",
+  "description": "Removes all spaces from a string",
+  "license": "MIT",
+  "repository": "binhbdn/tiny",
+  "main": "index.js",
+  "keywords": [
+    "tiny",
+    "npm",
+    "package",
+    "binhbdn"
+  ]
+}
